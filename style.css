@@ -1688,9 +1688,7 @@ footer{
     align-items: center;
     padding: 2rem 0rem;
 }
-footer p{
-    text-align: center;
-}
+
 
 @keyframes bounce {
     0%, 80% , 100%{
