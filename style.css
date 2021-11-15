@@ -1124,6 +1124,7 @@ box-shadow: 0 2px 7px var(--first-bgcolor);
     color: var(--first-bgcolor-hover);
     font-size: 2rem;
     transition: 1s;
+    cursor: pointer;
 }
 .snacks_here{
     display: flex;
@@ -1239,6 +1240,7 @@ box-shadow: 0 2px 7px var(--first-bgcolor);
 }
 .team_pic{
     filter: grayscale(100%);
+    cursor: pointer;
 }
 .team_info_para{
     height: 0;
